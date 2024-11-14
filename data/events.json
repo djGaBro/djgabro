@@ -1,110 +1,61 @@
 {
-    "honap": 12,
+    "honap": 11,
     "esemenyek": [
       {
-        "nap": "01",
-        "helyszin": "Pelda_Helyszin",
-        "bulinev": "Pelda_Bulinev",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
+        "nap": "02",
+        "helyszin": "JATE KLUB",
+        "bulinev": "Saturday Fiesta",
+        "varos": "Szeged",
+        "link": "https://www.facebook.com/events/1077764483718598"
       },
       {
-        "nap": "05",
-        "helyszin": "Pelda_Helyszin2",
-        "bulinev": "Pelda_Bulinev2",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
+        "nap": "07",
+        "helyszin": "JATE KLUB",
+        "bulinev": "SZTE Házibuli",
+        "varos": "Szeged",
+        "link": "https://www.facebook.com/events/1226207405342242"
       },
       {
-        "nap": "10",
-        "helyszin": "Pelda_Helyszin3",
-        "bulinev": "Pelda_Bulinev3",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
-      },
-      {
-        "nap": "13",
-        "helyszin": "Pelda_Helyszin4",
-        "bulinev": "Pelda_Bulinev4",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
+        "nap": "09",
+        "helyszin": "Pálos Söröző",
+        "bulinev": "NOVEMBERTELEN PÁLOS",
+        "varos": "Csólyospálos",
+        "link": "https://www.facebook.com/events/1066734145087001"
       },
       {
         "nap": "15",
-        "helyszin": "Pelda_Helyszin5",
-        "bulinev": "Pelda_Bulinev5",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
+        "helyszin": "Jégpálya",
+        "bulinev": "Frozen Beats",
+        "varos": "Szeged",
+        "link": "https://www.facebook.com/events/1732485120845512"
       },
       {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
+        "nap": "16",
+        "helyszin": "FLOW",
+        "bulinev": "#PRSTA Szalagavató After",
+        "varos": "Szeged",
+        "link": "https://www.facebook.com/events/1276780533458318"
       },
       {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
+        "nap": "23",
+        "helyszin": "JATE KLUB",
+        "bulinev": "#TIG Szalagavató After",
+        "varos": "Szeged",
+        "link": "https://www.facebook.com/events/1922526655157056"
       },
       {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
+        "nap": "29",
+        "helyszin": "HUNGI EMELET",
+        "bulinev": "#RMG Szalagavató After",
+        "varos": "Szeged",
+        "link": "https://www.facebook.com/events/2025461331225574"
       },
       {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
-      },
-      {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
-      },
-      {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
-      },
-      {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
-      },
-      {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
-      },
-      {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
-      },
-      {
-        "nap": "20",
-        "helyszin": "Pelda_Helyszin6",
-        "bulinev": "Pelda_Bulinev6",
-        "varos": "Pelda_Varos",
-        "link": "https://www.facebook.com/?locale=hu_HU"
+        "nap": "30",
+        "helyszin": "JATE KLUB",
+        "bulinev": "#DFG Szalagavató After",
+        "varos": "Szeged",
+        "link": "https://www.facebook.com/events/1069494124828751"
       }
     ]
   }
