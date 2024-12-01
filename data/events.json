@@ -1,61 +1,54 @@
 {
-  "honap": 11,
+  "honap": 12,
   "esemenyek": [
     {
-      "nap": "02",
-      "helyszin": "JATE KLUB",
-      "bulinev": "Saturday Fiesta",
+      "nap": "06",
+      "helyszin": "Jégpálya",
+      "bulinev": "Santa Claus Ice Party",
       "varos": "Szeged",
-      "link": "https://www.facebook.com/events/1077764483718598"
+      "link": "https://www.facebook.com/events/1162418658997162"
     },
     {
       "nap": "07",
-      "helyszin": "JATE KLUB",
-      "bulinev": "SZTE Házibuli",
-      "varos": "Szeged",
-      "link": "https://www.facebook.com/events/1226207405342242"
+      "helyszin": "Story Bar",
+      "bulinev": "#FRANKEL Szalagavató After",
+      "varos": "Baja",
+      "link": "https://www.facebook.com/events/1863816010809078"
     },
     {
-      "nap": "09",
-      "helyszin": "PÁLOS",
-      "bulinev": "NOVEMBERTELEN PÁLOS",
+      "nap": "11",
+      "helyszin": "Jate Klub",
+      "bulinev": "NAGY SZTE ZÁRÓ",
+      "varos": "Szeged",
+      "link": "https://www.facebook.com/events/9404696919557943"
+    },
+    {
+      "nap": "13",
+      "helyszin": "Jégpálya",
+      "bulinev": "Ice Party",
+      "varos": "Szeged",
+      "link": ""
+    },
+    {
+      "nap": "14",
+      "helyszin": "Pálos",
+      "bulinev": "V. Szülinapi Kavalkád",
       "varos": "Csólyospálos",
-      "link": "https://www.facebook.com/events/1066734145087001"
+      "link": "https://www.facebook.com/events/1071875354414675"
     },
     {
-      "nap": "15",
-      "helyszin": "JÉGPÁLYA",
-      "bulinev": "Frozen Beats",
+      "nap": "20",
+      "helyszin": "Jate Klub",
+      "bulinev": "TÖDE Party",
       "varos": "Szeged",
-      "link": "https://www.facebook.com/events/1732485120845512"
+      "link": "https://www.facebook.com/events/371053912701194"
     },
     {
-      "nap": "16",
-      "helyszin": "FLOW",
-      "bulinev": "#PRSTA Szalagavató After",
+      "nap": "31",
+      "helyszin": "Jégpálya",
+      "bulinev": "Szilveszteri Jégdisco",
       "varos": "Szeged",
-      "link": "https://www.facebook.com/events/1276780533458318"
-    },
-    {
-      "nap": "23",
-      "helyszin": "JATE KLUB",
-      "bulinev": "#TIG Szalagavató After",
-      "varos": "Szeged",
-      "link": "https://www.facebook.com/events/1922526655157056"
-    },
-    {
-      "nap": "29",
-      "helyszin": "HUNGI EMELET",
-      "bulinev": "#RMG Szalagavató After",
-      "varos": "Szeged",
-      "link": "https://www.facebook.com/events/2025461331225574"
-    },
-    {
-      "nap": "30",
-      "helyszin": "JATE KLUB",
-      "bulinev": "#DFG Szalagavató After",
-      "varos": "Szeged",
-      "link": "https://www.facebook.com/events/1069494124828751"
+      "link": ""
     }
   ]
 }
