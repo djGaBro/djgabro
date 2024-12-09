@@ -25,9 +25,9 @@
     {
       "nap": "13",
       "helyszin": "Jégdisco",
-      "bulinev": "Ice Party",
+      "bulinev": "Jégdisco 11. Birthday Party",
       "varos": "Szeged",
-      "link": ""
+      "link": "https://www.facebook.com/events/912407861036033/?acontext=%7B"
     },
     {
       "nap": "14",
@@ -49,6 +49,13 @@
       "bulinev": "Szilveszteri Jégdisco",
       "varos": "Szeged",
       "link": ""
+    },
+    {
+      "nap": "31",
+      "helyszin": "Jate Klub",
+      "bulinev": "New Year Party & After",
+      "varos": "Szeged",
+      "link": "https://www.facebook.com/events/1684805499053928?locale=hu_HU"
     }
   ]
 }
