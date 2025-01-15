@@ -1,26 +1,26 @@
 {
-  "honap": 12,
+  "honap": 1,
   "esemenyek": [
     {
-      "nap": "06",
-      "helyszin": "Jégdisco",
-      "bulinev": "Santa Claus Ice Party",
-      "varos": "Szeged",
-      "link": "https://www.facebook.com/events/1162418658997162"
-    },
-    {
-      "nap": "07",
-      "helyszin": "Story Bar",
-      "bulinev": "#FRANKEL Szalagavató After",
-      "varos": "Baja",
-      "link": "https://www.facebook.com/events/1863816010809078"
-    },
-    {
       "nap": "11",
-      "helyszin": "Jate Klub",
-      "bulinev": "NAGY SZTE ZÁRÓ",
+      "helyszin": "JATE",
+      "bulinev": "#SG Szalagavató After",
       "varos": "Szeged",
-      "link": "https://www.facebook.com/events/9404696919557943"
+      "link": "https://www.facebook.com/events/1153764579601526?locale=hu_HU"
+    },
+    {
+      "nap": "18",
+      "helyszin": "FLOW",
+      "bulinev": "#EJG Szalagavató After",
+      "varos": "Szeged",
+      "link": "https://www.facebook.com/events/486675780669272?locale=hu_HU"
+    },
+    {
+      "nap": "25",
+      "helyszin": "FLOW",
+      "bulinev": "#VASVRI Szalagavató After",
+      "varos": "Szeged",
+      "link": "https://www.facebook.com/events/2339276189741820?locale=hu_HU"
     },
     {
       "nap": "13",
