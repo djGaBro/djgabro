@@ -1,26 +1,33 @@
 {
-  "honap": 1,
+  "honap": 2,
   "esemenyek": [
     {
-      "nap": "11",
-      "helyszin": "JATE",
-      "bulinev": "#SG Szalagavató After",
-      "varos": "Szeged",
-      "link": "https://www.facebook.com/events/1153764579601526?locale=hu_HU"
+      "nap": "08",
+      "helyszin": "Pálos Söröző",
+      "bulinev": "Februári Szétcsúszás",
+      "varos": "Csólyospálos",
+      "link": "https://fb.me/e/9lpYzliY5"
     },
     {
-      "nap": "18",
-      "helyszin": "FLOW",
-      "bulinev": "#EJG Szalagavató After",
+      "nap": "14",
+      "helyszin": "Jate Klub",
+      "bulinev": "Anti-Valentine's Day Party",
       "varos": "Szeged",
-      "link": "https://www.facebook.com/events/486675780669272?locale=hu_HU"
+      "link": "https://fb.me/e/4tcKec80M"
     },
     {
-      "nap": "25",
-      "helyszin": "FLOW",
-      "bulinev": "#VASVRI Szalagavató After",
+      "nap": "15",
+      "helyszin": "Story Bar",
+      "bulinev": "F**k Valentines",
+      "varos": "Baja",
+      "link": "https://fb.me/e/2Tg1hVgzl"
+    },
+    {
+      "nap": "28",
+      "helyszin": "Jate Klub",
+      "bulinev": "Dancing with the Queen // Yamina",
       "varos": "Szeged",
-      "link": "https://www.facebook.com/events/2339276189741820?locale=hu_HU"
+      "link": "https://fb.me/e/4CU2liFB4"
     }
   ]
 }
