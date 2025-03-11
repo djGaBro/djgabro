@@ -1,33 +1,54 @@
 {
-  "honap": 2,
+  "honap": 3,
   "esemenyek": [
     {
-      "nap": "08",
-      "helyszin": "Pálos Söröző",
-      "bulinev": "Februári Szétcsúszás",
-      "varos": "Csólyospálos",
-      "link": "https://fb.me/e/9lpYzliY5"
+      "nap": "04",
+      "helyszin": "JATE KLUB",
+      "bulinev": "NAGY SZTE HÁZIBULI",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/2JbBjLV03"
     },
     {
-      "nap": "14",
-      "helyszin": "Jate Klub",
-      "bulinev": "Anti-Valentine's Day Party",
-      "varos": "Szeged",
-      "link": "https://fb.me/e/4tcKec80M"
+      "nap": "05",
+      "helyszin": "HUNGI VIGADÓ",
+      "bulinev": "ÁJTK-GTK FELEZŐ",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/H74Mvcltg"
+    },
+    {
+      "nap": "07",
+      "helyszin": "JATE KLUB",
+      "bulinev": "BAIILA CONMIGO",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/5lhTqLaFF"
+    },
+    {
+      "nap": "12",
+      "helyszin": "JATE KLUB",
+      "bulinev": "SUNIVERSITY 2010'S PARTY",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/7dGO8R6Hu"
     },
     {
       "nap": "15",
-      "helyszin": "Story Bar",
-      "bulinev": "F**k Valentines",
-      "varos": "Baja",
-      "link": "https://fb.me/e/2Tg1hVgzl"
+      "helyszin": "JÉGDISCO",
+      "bulinev": "FORRADALMI JEGES EST",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/34jWnVcmz"
     },
     {
-      "nap": "28",
-      "helyszin": "Jate Klub",
-      "bulinev": "Dancing with the Queen // Yamina",
-      "varos": "Szeged",
-      "link": "https://fb.me/e/4CU2liFB4"
+      "nap": "15",
+      "helyszin": "JATE KLUB",
+      "bulinev": "NECC PARTY WARMUP",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/4OcBcgunZ"
+    },
+    {
+      "nap": "27",
+      "helyszin": "HUNGI VIGADÓ",
+      "bulinev": "ÁJTK-GTK KARIBULI",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/5jDQCgX3f"
     }
   ]
 }
