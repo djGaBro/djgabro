@@ -1,54 +1,54 @@
 {
-  "honap": 3,
+  "honap": 4,
   "esemenyek": [
     {
-      "nap": "04",
-      "helyszin": "JATE KLUB",
-      "bulinev": "NAGY SZTE HÁZIBULI",
-      "varos": "SZEGED",
-      "link": "https://fb.me/e/2JbBjLV03"
-    },
-    {
-      "nap": "05",
-      "helyszin": "HUNGI VIGADÓ",
-      "bulinev": "ÁJTK-GTK FELEZŐ",
-      "varos": "SZEGED",
-      "link": "https://fb.me/e/H74Mvcltg"
-    },
-    {
-      "nap": "07",
-      "helyszin": "JATE KLUB",
-      "bulinev": "BAIILA CONMIGO",
-      "varos": "SZEGED",
-      "link": "https://fb.me/e/5lhTqLaFF"
+      "nap": "09",
+      "helyszin": "CLUB HEAVEN",
+      "bulinev": "NKE GYŰRŰAVATÓ AFTER",
+      "varos": "BUDAPEST",
+      "link": "https://fb.me/e/4tumIDsVG"
     },
     {
       "nap": "12",
       "helyszin": "JATE KLUB",
-      "bulinev": "SUNIVERSITY 2010'S PARTY",
+      "bulinev": "MEDIKUS KUPA AFTER",
       "varos": "SZEGED",
-      "link": "https://fb.me/e/7dGO8R6Hu"
+      "link": ""
     },
     {
-      "nap": "15",
-      "helyszin": "JÉGDISCO",
-      "bulinev": "FORRADALMI JEGES EST",
-      "varos": "SZEGED",
-      "link": "https://fb.me/e/34jWnVcmz"
-    },
-    {
-      "nap": "15",
+      "nap": "17",
       "helyszin": "JATE KLUB",
-      "bulinev": "NECC PARTY WARMUP",
+      "bulinev": "TÖDE PARTY",
       "varos": "SZEGED",
-      "link": "https://fb.me/e/4OcBcgunZ"
+      "link": "https://fb.me/e/eoqg59OYC"
     },
     {
-      "nap": "27",
-      "helyszin": "HUNGI VIGADÓ",
-      "bulinev": "ÁJTK-GTK KARIBULI",
+      "nap": "19",
+      "helyszin": "STORY BAR",
+      "bulinev": "MACARENA",
+      "varos": "BAJA",
+      "link": ""
+    },
+    {
+      "nap": "23",
+      "helyszin": "SZTE SPORTKÖZPONT",
+      "bulinev": "ÁSZ-NAP DAYTIME PARTY",
       "varos": "SZEGED",
-      "link": "https://fb.me/e/5jDQCgX3f"
+      "link": "https://fb.me/e/2SF3QURIo"
+    },
+    {
+      "nap": "23",
+      "helyszin": "HUNGI VIGADÓ",
+      "bulinev": "ÁJTK-GTK ZÁRÓ",
+      "varos": "SZEGED",
+      "link": ""
+    },
+    {
+      "nap": "26",
+      "helyszin": "JATE KLUB",
+      "bulinev": "SPRING BEATS",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/5rMXBuss7"
     }
   ]
 }
