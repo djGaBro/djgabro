@@ -1,8 +1,8 @@
 {
-  "honap": 4,
+  "honap": 7,
   "esemenyek": [
     {
-      "nap": "9",
+      "nap": "12",
       "helyszin": "CLUB HEAVEN",
       "bulinev": "NKE GYŰRŰAVATÓ AFTER",
       "varos": "BUDAPEST",
@@ -10,45 +10,38 @@
     },
     {
       "nap": "12",
-      "helyszin": "JATE KLUB",
-      "bulinev": "MEDIKUS KUPA AFTER",
-      "varos": "SZEGED",
-      "link": ""
+      "helyszin": "LAGUNA",
+      "bulinev": "TROPICAL NIGHT",
+      "varos": "CSONGRÁD",
+      "link": "https://fb.me/e/3vpKMQwWR"
     },
     {
-      "nap": "17",
-      "helyszin": "JATE KLUB",
-      "bulinev": "TÖDE PARTY",
-      "varos": "SZEGED",
-      "link": "https://fb.me/e/eoqg59OYC"
+      "nap": "18",
+      "helyszin": "SZIGET DISCO",
+      "bulinev": "TROPICAL MADNESS",
+      "varos": "KISKUNMAJSA",
+      "link": "https://fb.me/e/b5Qn9uY6t"
     },
     {
       "nap": "19",
-      "helyszin": "STORY BAR",
-      "bulinev": "MACARENA",
-      "varos": "BAJA",
-      "link": ""
+      "helyszin": "CHEERS BAR",
+      "bulinev": "X-PLICIT POP UP PARTY",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/4UaIGxAp7"
     },
     {
-      "nap": "23",
-      "helyszin": "SZTE SPORTKÖZPONT",
-      "bulinev": "ÁSZ-NAP DAYTIME PARTY",
-      "varos": "SZEGED",
+      "nap": "19",
+      "helyszin": "TIKI BAR",
+      "bulinev": "FEHÉRTONE FESZTIVÁL",
+      "varos": "KUNFEHÉRTÓ",
       "link": "https://fb.me/e/2SF3QURIo"
     },
     {
-      "nap": "23",
-      "helyszin": "HUNGI VIGADÓ",
-      "bulinev": "ÁJTK-GTK ZÁRÓ",
-      "varos": "SZEGED",
-      "link": ""
-    },
-    {
       "nap": "26",
-      "helyszin": "JATE KLUB",
-      "bulinev": "SPRING BEATS",
-      "varos": "SZEGED",
-      "link": "https://fb.me/e/5rMXBuss7"
+      "helyszin": "FALUHÁZ",
+      "bulinev": "CSÓLYOSPÁLOS FALUNAPOK",
+      "varos": "CSÓLYOSPÁLOS",
+      "link": ""
     }
   ]
 }
