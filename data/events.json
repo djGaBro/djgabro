@@ -1,38 +1,73 @@
 {
     {
-      "nap": "12",
-      "helyszin": "LAGUNA",
-      "bulinev": "TROPICAL NIGHT",
-      "varos": "CSONGRÁD",
-      "link": "https://fb.me/e/3vpKMQwWR"
+      "nap": "04",
+      "helyszin": "STORY BAR",
+      "bulinev": "ÖSSZBULI",
+      "varos": "BAJA",
+      "link": "https://fb.me/e/7U47026KS"
+    },
+    {
+      "nap": "08",
+      "helyszin": "CLUB HEAVEN",
+      "bulinev": "NKE SZEMESZTERNYITÓ",
+      "varos": "BUDAPEST",
+      "link": "https://fb.me/e/8Yuk1RoLG"
+    },
+    {
+      "nap": "10",
+      "helyszin": "JÉGDISCO",
+      "bulinev": "SEASON OPENING",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/3JratJD4Z"
+    },
+    {
+      "nap": "10",
+      "helyszin": "JATE KLUB",
+      "bulinev": "REPLAY 2000s HITS",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/3HobGrPaW"
+    },
+    {
+      "nap": "11",
+      "helyszin": "JATE KLUB",
+      "bulinev": "BLACKOUT PARTY",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/31NH6ZFkY"
+    },
+    {
+      "nap": "17",
+      "helyszin": "JATE KLUB",
+      "bulinev": "ALL YOU CAN DRINK",
+      "varos": "SZEGED",
+      "link": ""
     },
     {
       "nap": "18",
-      "helyszin": "SZIGET DISCO",
-      "bulinev": "TROPICAL MADNESS",
-      "varos": "KISKUNMAJSA",
-      "link": "https://fb.me/e/b5Qn9uY6t"
+      "helyszin": "SKY CLUB",
+      "bulinev": "TOP HITS PARTY",
+      "varos": "SZARVAS",
+      "link": ""
     },
     {
       "nap": "19",
-      "helyszin": "CHEERS BAR",
-      "bulinev": "X-PLICIT POP UP PARTY",
+      "helyszin": "JATE KLUB",
+      "bulinev": "FAMILY PARTY",
       "varos": "SZEGED",
-      "link": "https://fb.me/e/4UaIGxAp7"
+      "link": "https://fb.me/e/2RcTBNAzn"
     },
     {
-      "nap": "19",
-      "helyszin": "TIKI BAR",
-      "bulinev": "FEHÉRTONE FESZTIVÁL",
-      "varos": "KUNFEHÉRTÓ",
-      "link": "https://fb.me/e/2SF3QURIo"
-    },
-    {
-      "nap": "26",
-      "helyszin": "FALUHÁZ",
-      "bulinev": "CSÓLYOSPÁLOS FALUNAPOK",
+      "nap": "24",
+      "helyszin": "PÁLOS SÖRÖZŐ",
+      "bulinev": "PÁLOSNIGHT",
       "varos": "CSÓLYOSPÁLOS",
       "link": ""
+    },
+    {
+      "nap": "25",
+      "helyszin": "JATE KLUB",
+      "bulinev": "ROLLIN’ HUNGARIAN TOPSHIT PARTY",
+      "varos": "SZEGED",
+      "link": "https://fb.me/e/56CMHF9qC"
     }
   ]
 }
